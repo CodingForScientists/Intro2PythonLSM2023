@@ -18,3 +18,6 @@
   2. **Day 2**: The Array Structure in Numpy: Multidimensional Arrays
   3. **Day 3**: The DataFrame Structure: Pandas and Seaborn
   4. **Day 4**: Managing Data and Code: Reorganizing Dataframes and Python's Block Syntax
+
+
+For more exercises, see my course materials repository: https://github.com/nickdelgrosso/CodeTeachingMaterials
