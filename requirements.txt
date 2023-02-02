@@ -2,5 +2,6 @@ matplotlib
 numpy
 openpyxl
 pandas
+plotnine
 scipy
 seaborn
